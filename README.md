@@ -1,0 +1,2 @@
+# Amigo
+Repository for Amigo
